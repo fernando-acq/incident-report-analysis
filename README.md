@@ -1,6 +1,7 @@
 # 🛡️ Incident Report Analysis - NIST CSF
 
 Análise completa de incidente de ataque DDoS (ICMP Flood) utilizando o framework NIST Cybersecurity Framework para resposta estruturada.
+> **Nota:** O cenário de ataque DDoS documentado abaixo é baseado em um exercício prático de resposta a incidentes. A aplicação das 5 funções do NIST Cybersecurity Framework e o plano de ação foram desenvolvidos por mim.
 
 ## 📋 Descrição
 
